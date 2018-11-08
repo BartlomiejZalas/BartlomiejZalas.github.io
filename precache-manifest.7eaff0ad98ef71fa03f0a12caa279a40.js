@@ -4,24 +4,24 @@ self.__precacheManifest = [
     "url": "/static/media/home.765e3d70.jpg"
   },
   {
-    "revision": "4324c427eabffbf1bf6c",
-    "url": "/static/css/main.8f419388.chunk.css"
+    "revision": "bdfce1fbc00114ab1acc",
+    "url": "/static/css/main.7c39716f.chunk.css"
   },
   {
     "revision": "841fea6284659b16c7207e4592619905",
     "url": "/static/media/eco-14-min.841fea62.png"
   },
   {
-    "revision": "7ce9faeb49eeb99ce0c2",
-    "url": "/static/js/1.7ce9faeb.chunk.js"
+    "revision": "1a03604d0bdc1d7fc831",
+    "url": "/static/js/1.1a03604d.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "4324c427eabffbf1bf6c",
-    "url": "/static/js/main.4324c427.chunk.js"
+    "revision": "bdfce1fbc00114ab1acc",
+    "url": "/static/js/main.bdfce1fb.chunk.js"
   },
   {
     "revision": "84d56f2792d7edb96ed40a6f83354452",
@@ -36,11 +36,11 @@ self.__precacheManifest = [
     "url": "/static/media/yacht.8701277d.jpg"
   },
   {
-    "revision": "7ce9faeb49eeb99ce0c2",
+    "revision": "1a03604d0bdc1d7fc831",
     "url": "/static/css/1.685fb6cc.chunk.css"
   },
   {
-    "revision": "47c644a3339c75e1cb6aa2bbb8db54aa",
+    "revision": "5b573fd8aaba1f2bb95637fe442799b3",
     "url": "/index.html"
   }
 ];
