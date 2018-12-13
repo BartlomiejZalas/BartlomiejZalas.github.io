@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.fb6bdc4a.chunk.css",
-  "main.js": "/static/js/main.65c3803a.chunk.js",
-  "main.js.map": "/static/js/main.65c3803a.chunk.js.map",
+  "main.js": "/static/js/main.4859262b.chunk.js",
+  "main.js.map": "/static/js/main.4859262b.chunk.js.map",
   "static/css/1.45984aa8.chunk.css": "/static/css/1.45984aa8.chunk.css",
   "static/js/1.b051912c.chunk.js": "/static/js/1.b051912c.chunk.js",
   "static/js/1.b051912c.chunk.js.map": "/static/js/1.b051912c.chunk.js.map",
@@ -12,7 +12,7 @@
   "static/media/boats.jpg": "/static/media/boats.84d56f27.jpg",
   "static/media/cabin.jpg": "/static/media/cabin.6d5470f8.jpg",
   "static/media/eco-14-top.jpg": "/static/media/eco-14-top.0ee55270.jpg",
-  "static/media/eco-14.jpg": "/static/media/eco-14.b6e36cca.jpg",
+  "static/media/eco-14.jpg": "/static/media/eco-14.ede6759d.jpg",
   "static/media/salon.jpg": "/static/media/salon.6505025c.jpg",
   "static/media/eco-14e.jpg": "/static/media/eco-14e.d5514719.jpg",
   "static/media/eco-14b.jpg": "/static/media/eco-14b.7b624322.jpg",
@@ -27,6 +27,6 @@
   "static/css/main.fb6bdc4a.chunk.css.map": "/static/css/main.fb6bdc4a.chunk.css.map",
   "static/css/1.45984aa8.chunk.css.map": "/static/css/1.45984aa8.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.db08439f33f56da9883beb810eb4661d.js": "/precache-manifest.db08439f33f56da9883beb810eb4661d.js",
+  "precache-manifest.ea7de895354f68384dcf291bae192284.js": "/precache-manifest.ea7de895354f68384dcf291bae192284.js",
   "service-worker.js": "/service-worker.js"
 }
